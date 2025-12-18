@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Run For Roses",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-18T13:09:00.869408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Run For Roses",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/01_Run_For_Roses_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "run for roses",
+      "artist": "nmixx",
+      "has_synced": true,
+      "path": "select/02_run_for_roses_nmixx.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "NMIXX “Run For Roses” (Official Audio)",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/03_NMIXX_“Run_For_Roses”_(Official_Audio)_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Run For Roses",
+      "artist": "Song, NMIXX",
+      "has_synced": true,
+      "path": "select/04_Run_For_Roses_Song,_NMIXX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Run For Roses",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_Run_For_Roses_NMIXX.txt"
+    }
+  ]
+}
